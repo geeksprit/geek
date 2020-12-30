@@ -1,2 +1,2 @@
 # geek
-dsfsdf
+npm install react-bootstrap bootstrap
