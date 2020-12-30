@@ -246,6 +246,7 @@ class App extends Component {
         <br />
         <div id="footer">
         <p>Copyright GEEKSPIRITS</p>
+        </div>
       </div>
     );
   }
