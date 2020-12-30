@@ -245,10 +245,7 @@ class App extends Component {
         </Table>
         <br />
         <div id="footer">
-        Copyright GEEKSPIRITS
-        </div>
-
-        <div>The final say belongs to geek.</div>
+        <p>Copyright GEEKSPIRITS</p>
       </div>
     );
   }
